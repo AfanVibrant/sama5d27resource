@@ -1,10 +1,11 @@
 # SAMA5D27 Sharing/SAMA5D27分享
+  - Author: Afan/阿凡 <afanvibrant@outlook.com>
 
-* Introduction介绍
+* Introduction/介绍
   - SAMA5D27 Key Features/SAMA5D27芯片特性
 * SAMA5D2 Boot/SAMA5D2启动流程
-  - Boot Sequence启动顺序
-  - Boot Configuration启动配置
+  - Boot Sequence/启动顺序
+  - Boot Configuration/启动配置
   - SAM-BA Mode/SAM-BA模式介绍
 * SAMA5D2 IO Assignment/SAMA5D2 IO管脚分配
   - IO Pin Map Description/看懂SAMA5D2 IO管脚功能分配图
@@ -53,8 +54,10 @@
   - Running LVGL GUI on SAMA5D2/在SAMA5D2上运行LVGL GUI
   - Running GuiLite GUI on SAMA5D2/在SAMA5D2上运行GuiLite GUI
   - Running Cairo on SAMA5D2/在SAMA5D2上运行Cairo 2D图形引擎
-  - Multi-Layer Display Support on SAMA5D2/SAMA5D2上多图层显示驱动支持
-  - Running EtherCAT Master on SAMA5D2/在SAMA5D2上运行EtherCAT主站协议
+  - Multi-Layer Display Driver Support on SAMA5D2/SAMA5D2上多图层显示驱动支持
+  - Adding LAN9252 EtherCAT Controller Driver on SAMA5D2/在SAMA5D2上添加LAN9252 EtherCAT驱动
+  - Running Simple Opensource EtherCAT Master on SAMA5D2/在SAMA5D2上运行开源EtherCAT主站协议
+  - Running Simple Opensource EtherCAT Slave on SAMA5D2/在SAMA5D2上运行开源EtherCAT主站协议
   - Running CAN Socket on SAMA5D2/在SAMA5D2上运行socket CAN
   - Running SQLite3 on SAMA5D2/在SAMA5D2上运行SQLite3
   - Adding MicroPython Support/添加对MicroPython的支持
@@ -63,6 +66,10 @@
   - TensorFlow Lite demo/TensorFlow Lite演示
   - Adding OpenMV Support/添加OpenMV的支持
   - Adding MQTT Support/添加MQTT的支持
+  - Adding ATWINC1500 Wi-Fi Support/添加ATWINC1500 Wi-Fi支持
+  - Adding ESP8266 Wi-Fi Support/添加ESP8266 Wi-Fi支持
+  - Adding 802.15.4 6LoWPAN Support/添加802.15.4 6LoWPAN支持
+  - A Simple Multi-Layer GUI demo/一个简单的多图层显示例程
 
 # INTRODUCTION介绍
 
