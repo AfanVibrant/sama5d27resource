@@ -31,7 +31,7 @@
 * Your First Bare-metal Project/你的第一个裸跑工程
   - atmel-software package
   - Harmony 3
-  - FreeRTOS demo
+  - A Simple FreeRTOS demo
 * uCos-III RTOS On SAMA5D2/在SAMA5D2上跑uCos-III RTOS
   - uCos-III Introduction/uCos-III介绍
   - Download Source Code/下载源码
@@ -50,7 +50,9 @@
   - Download Source Code/下载源码
   - Cross Compile/交叉编译
   - Debug with OpenOCD/使用OpenOCD调试源码
-  - Adding Maxtouch Driver/添加Maxtouch驱动
+  - Adding Maxtouch Driver to NuttX/添加Maxtouch驱动到NuttX内核
+  - Adding Flexcom TWI Driver to NuttX/添加Flexcom TWI驱动到NuttX内核
+  - Adding Flexcom SPI Driver to NuttX/添加Flexcom SPI驱动到NuttX内核
   - Running LVGL GUI on SAMA5D2/在SAMA5D2上运行LVGL GUI
   - Running GuiLite GUI on SAMA5D2/在SAMA5D2上运行GuiLite GUI
   - Running Cairo on SAMA5D2/在SAMA5D2上运行Cairo 2D图形引擎
@@ -61,15 +63,18 @@
   - Running CAN Socket on SAMA5D2/在SAMA5D2上运行socket CAN
   - Running SQLite3 on SAMA5D2/在SAMA5D2上运行SQLite3
   - Adding MicroPython Support/添加对MicroPython的支持
-  - Adding Camera Support/添加摄像头驱动支持
+  - Adding Camera Driver Support/添加摄像头驱动支持
   - Adding TensorFlow Lite Support/添加TensorFlow Lite的支持
-  - TensorFlow Lite demo/TensorFlow Lite演示
+  - TensorFlow Lite Demo/TensorFlow Lite演示
   - Adding OpenMV Support/添加OpenMV的支持
   - Adding MQTT Support/添加MQTT的支持
   - Adding ATWINC1500 Wi-Fi Support/添加ATWINC1500 Wi-Fi支持
   - Adding ESP8266 Wi-Fi Support/添加ESP8266 Wi-Fi支持
+  - A Simple MQTT Subscribe/Publish MicroPython Example/一个简单的MQTT消息订阅/发布例程
   - Adding 802.15.4 6LoWPAN Support/添加802.15.4 6LoWPAN支持
-  - A Simple Multi-Layer GUI demo/一个简单的多图层显示例程
+  - A Simple Multi-Layer GUI Demo/一个简单的多图层显示例程
+  - Porting Thread-Pool to NuttX/移植线程池到NuttX
+  - Porting My Linux Application to NuttX/将我的Linux应用代码移植到NuttX
 
 # INTRODUCTION介绍
 
